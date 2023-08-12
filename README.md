@@ -33,7 +33,7 @@
 <p><a href="https://www.buymeacoffee.com/keshavverma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="keshavverma" /></a></p><br><br>
 
 
-<img src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif" align="right" width="400" height="420" alt="coding2">
+<img src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif" align="right" width="350" height="420" alt="coding2">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curious-keshav&show_icons=true&locale=en" alt="curious-keshav" /></p>
 
