@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/k4verma" target="blank"><img src="https://img.shields.io/twitter/follow/k4verma?logo=twitter&style=for-the-badge" alt="k4verma" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://keshavverma.netlify.app/](https://keshavverma.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://keshavverma.vercel.app/](https://keshavverma.vercel.app/)
 
 - 💬 Ask me about **dsa, c++, react, redux, firebase, figma, photoshop**
 
